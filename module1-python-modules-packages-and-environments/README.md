@@ -20,7 +20,7 @@ environment with `pipenv`, installing our dependencies, and making some classes.
 
 ## Assignment
 
-1) Create your own `lambdata-carlos-gutier` package, as shown in lecture
+1) Create your own `lambdata-carlosgutier` package, as shown in lecture
 2) Implement at least 2 of the following "helper" utility functions:
   - Check a dataframe for nulls, print/report them in a nice "pretty" format
   - Report a confusion matrix, with labels for easier interpretation
@@ -30,9 +30,9 @@ environment with `pipenv`, installing our dependencies, and making some classes.
     variables, outputs a contingency table and corresponding Chi-squared test
   - Your idea here! (You will implement more later in the week as well)
 3) Register for a [test PyPI account](https://test.pypi.org/account/register/)
-4) Publish your package as `lambdata-yourusername` (to avoid conflicts)
+4) Publish your package as `lambdata-carlosgutier` (to avoid conflicts)
 5) Start a Python notebook, and install your package with
-  `!pip install --index-url https://test.pypi.org/simple/ lambdata-carlos-gutier`
+  `!pip install --index-url https://test.pypi.org/simple/ lambdata-carlosgutier`
 6) `import lambdata-carlos-gutier as lambdata` in your notebook, and try it out!
 
 Many of the utility functions can be implemented with the right clever calls
